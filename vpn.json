@@ -1,0 +1,17 @@
+{
+  "deviceName": "dn",
+  "localAddr": ":3000",
+  "serverAddr": ":3001",
+  "dNSServerIP": "8.8.8.8",
+  "cIDR": "172.16.0.10/24",
+  "cIDRv6": "fced:9999::9999/64",
+  "ServerMode": false,
+  "GlobalMode": false,
+  "mTU": 1500,
+  "timeout": 30,
+  "localGateway": "",
+  "tLSCertificateFilePath": "/server.pem",
+  "tLSCertificateKeyFilePath": "/server.key",
+  "tLSSni": ""
+}
+
